@@ -83,10 +83,8 @@ This shift is used to test whether a single fixed scheduler remains effective wh
 ```text
 .
 ├── README.md
-├── requirements.txt
 ├── src/
 │   └── simulate.py
-├── results/
    ├── training_dataset.csv
    ├── shifted_timeline_results.csv
    ├── summary.md
